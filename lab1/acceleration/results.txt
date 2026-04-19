@@ -1,0 +1,129 @@
+INFO:SimpleLogger:Epoch 1, Loss: 0.2400
+INFO:SimpleLogger:Epoch 2, Loss: 0.0696
+INFO:SimpleLogger:Epoch 3, Loss: 0.0380
+INFO:SimpleLogger:Epoch 4, Loss: 0.0294
+INFO:SimpleLogger:Epoch 5, Loss: 0.0177
+INFO:SimpleLogger:Epoch 6, Loss: 0.0222
+INFO:SimpleLogger:Epoch 7, Loss: 0.0185
+INFO:SimpleLogger:Epoch 8, Loss: 0.0044
+INFO:SimpleLogger:Epoch 9, Loss: 0.0042
+INFO:SimpleLogger:Epoch 10, Loss: 0.0215
+INFO:SimpleLogger:Accuracy: 97.20%
+INFO:SimpleLogger:Time taken for batch size 8: 52.28 seconds | GPU mem: 40.91 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 0.2745
+INFO:SimpleLogger:Epoch 2, Loss: 0.0760
+INFO:SimpleLogger:Epoch 3, Loss: 0.0406
+INFO:SimpleLogger:Epoch 4, Loss: 0.0198
+INFO:SimpleLogger:Epoch 5, Loss: 0.0184
+INFO:SimpleLogger:Epoch 6, Loss: 0.0175
+INFO:SimpleLogger:Epoch 7, Loss: 0.0140
+INFO:SimpleLogger:Epoch 8, Loss: 0.0099
+INFO:SimpleLogger:Epoch 9, Loss: 0.0172
+INFO:SimpleLogger:Epoch 10, Loss: 0.0043
+INFO:SimpleLogger:Accuracy: 97.00%
+INFO:SimpleLogger:Time taken for batch size 16: 25.09 seconds | GPU mem: 45.86 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 0.3265
+INFO:SimpleLogger:Epoch 2, Loss: 0.0898
+INFO:SimpleLogger:Epoch 3, Loss: 0.0428
+INFO:SimpleLogger:Epoch 4, Loss: 0.0246
+INFO:SimpleLogger:Epoch 5, Loss: 0.0208
+INFO:SimpleLogger:Epoch 6, Loss: 0.0176
+INFO:SimpleLogger:Epoch 7, Loss: 0.0075
+INFO:SimpleLogger:Epoch 8, Loss: 0.0148
+INFO:SimpleLogger:Epoch 9, Loss: 0.0101
+INFO:SimpleLogger:Epoch 10, Loss: 0.0100
+INFO:SimpleLogger:Accuracy: 96.50%
+INFO:SimpleLogger:Time taken for batch size 32: 23.19 seconds | GPU mem: 53.59 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 0.3951
+INFO:SimpleLogger:Epoch 2, Loss: 0.0968
+INFO:SimpleLogger:Epoch 3, Loss: 0.0531
+INFO:SimpleLogger:Epoch 4, Loss: 0.0293
+INFO:SimpleLogger:Epoch 5, Loss: 0.0176
+INFO:SimpleLogger:Epoch 6, Loss: 0.0179
+INFO:SimpleLogger:Epoch 7, Loss: 0.0073
+INFO:SimpleLogger:Epoch 8, Loss: 0.0034
+INFO:SimpleLogger:Epoch 9, Loss: 0.0015
+INFO:SimpleLogger:Epoch 10, Loss: 0.0007
+INFO:SimpleLogger:Accuracy: 98.20%
+INFO:SimpleLogger:Time taken for batch size 64: 10.20 seconds | GPU mem: 70.66 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 0.5310
+INFO:SimpleLogger:Epoch 2, Loss: 0.1227
+INFO:SimpleLogger:Epoch 3, Loss: 0.0758
+INFO:SimpleLogger:Epoch 4, Loss: 0.0445
+INFO:SimpleLogger:Epoch 5, Loss: 0.0296
+INFO:SimpleLogger:Epoch 6, Loss: 0.0177
+INFO:SimpleLogger:Epoch 7, Loss: 0.0151
+INFO:SimpleLogger:Epoch 8, Loss: 0.0061
+INFO:SimpleLogger:Epoch 9, Loss: 0.0033
+INFO:SimpleLogger:Epoch 10, Loss: 0.0044
+INFO:SimpleLogger:Accuracy: 97.50%
+INFO:SimpleLogger:Time taken for batch size 128: 8.12 seconds | GPU mem: 106.29 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 0.6962
+INFO:SimpleLogger:Epoch 2, Loss: 0.2099
+INFO:SimpleLogger:Epoch 3, Loss: 0.1236
+INFO:SimpleLogger:Epoch 4, Loss: 0.0803
+INFO:SimpleLogger:Epoch 5, Loss: 0.0499
+INFO:SimpleLogger:Epoch 6, Loss: 0.0377
+INFO:SimpleLogger:Epoch 7, Loss: 0.0272
+INFO:SimpleLogger:Epoch 8, Loss: 0.0239
+INFO:SimpleLogger:Epoch 9, Loss: 0.0193
+INFO:SimpleLogger:Epoch 10, Loss: 0.0103
+INFO:SimpleLogger:Accuracy: 97.80%
+INFO:SimpleLogger:Time taken for batch size 256: 7.53 seconds | GPU mem: 175.22 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 1.0143
+INFO:SimpleLogger:Epoch 2, Loss: 0.3136
+INFO:SimpleLogger:Epoch 3, Loss: 0.1980
+INFO:SimpleLogger:Epoch 4, Loss: 0.1345
+INFO:SimpleLogger:Epoch 5, Loss: 0.0949
+INFO:SimpleLogger:Epoch 6, Loss: 0.0660
+INFO:SimpleLogger:Epoch 7, Loss: 0.0489
+INFO:SimpleLogger:Epoch 8, Loss: 0.0360
+INFO:SimpleLogger:Epoch 9, Loss: 0.0314
+INFO:SimpleLogger:Epoch 10, Loss: 0.0240
+INFO:SimpleLogger:Accuracy: 96.30%
+INFO:SimpleLogger:Time taken for batch size 512: 6.84 seconds | GPU mem: 310.96 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 1.6084
+INFO:SimpleLogger:Epoch 2, Loss: 0.4617
+INFO:SimpleLogger:Epoch 3, Loss: 0.3349
+INFO:SimpleLogger:Epoch 4, Loss: 0.2607
+INFO:SimpleLogger:Epoch 5, Loss: 0.2036
+INFO:SimpleLogger:Epoch 6, Loss: 0.1660
+INFO:SimpleLogger:Epoch 7, Loss: 0.1390
+INFO:SimpleLogger:Epoch 8, Loss: 0.1156
+INFO:SimpleLogger:Epoch 9, Loss: 0.0951
+INFO:SimpleLogger:Epoch 10, Loss: 0.0790
+INFO:SimpleLogger:Accuracy: 96.90%
+INFO:SimpleLogger:Time taken for batch size 1024: 4.57 seconds | GPU mem: 581.67 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 2.1279
+INFO:SimpleLogger:Epoch 2, Loss: 1.2462
+INFO:SimpleLogger:Epoch 3, Loss: 0.5984
+INFO:SimpleLogger:Epoch 4, Loss: 0.4301
+INFO:SimpleLogger:Epoch 5, Loss: 0.3544
+INFO:SimpleLogger:Epoch 6, Loss: 0.3016
+INFO:SimpleLogger:Epoch 7, Loss: 0.2588
+INFO:SimpleLogger:Epoch 8, Loss: 0.2253
+INFO:SimpleLogger:Epoch 9, Loss: 0.1989
+INFO:SimpleLogger:Epoch 10, Loss: 0.1769
+INFO:SimpleLogger:Accuracy: 94.00%
+INFO:SimpleLogger:Time taken for batch size 2048: 7.93 seconds | GPU mem: 1128.03 MB
+
+INFO:SimpleLogger:Epoch 1, Loss: 2.1917
+INFO:SimpleLogger:Epoch 2, Loss: 1.6167
+INFO:SimpleLogger:Epoch 3, Loss: 0.9608
+INFO:SimpleLogger:Epoch 4, Loss: 0.5910
+INFO:SimpleLogger:Epoch 5, Loss: 0.4461
+INFO:SimpleLogger:Epoch 6, Loss: 0.3782
+INFO:SimpleLogger:Epoch 7, Loss: 0.3513
+INFO:SimpleLogger:Epoch 8, Loss: 0.3355
+INFO:SimpleLogger:Epoch 9, Loss: 0.2997
+INFO:SimpleLogger:Epoch 10, Loss: 0.2731
+INFO:SimpleLogger:Accuracy: 90.90%
+INFO:SimpleLogger:Time taken for batch size 4096: 42.89 seconds | GPU mem: 2215.54 MB
